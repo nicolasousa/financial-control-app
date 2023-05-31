@@ -1,2 +1,2 @@
 # financial-control-app
-🏋️Practice: Gerenciador de financias (Gastos e Ganhos) simples. Desenvolvido com React.js estilizado com a biblioteca Tailwind CSS.
+🏋️Practice: Gerenciador de financias (Gastos e Ganhos) simples. Desenvolvido com React.js (utilizando a biblioteca Vite) estilizado com a biblioteca Tailwind CSS.
