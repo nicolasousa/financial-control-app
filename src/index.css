@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root{
+    --container-height: 524px;
+    --border-radius: 10px;
+
+
+    --bg-color: #e6f2ff;
+    --bg-color-2: #8b79d9;
+
+    --scroll-color: rgb(93, 72, 186); 
+
+    --shadow: 5px 5px 10px rgba(128, 128, 128, 0.732);
+}
